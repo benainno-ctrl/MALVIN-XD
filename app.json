@@ -9,7 +9,7 @@
   "env": {
       "SESSION_ID": {
         "description": "Put your SESSION_ID here. Make sure it starts with malvin~",
-        "value":"",
+        "value":"malvin~ImFxCLTS#mUUZn2K-Fuv4FeQ-KMOsIECS5ZoCz2Vz_EIoraQCvno",
         "required": true
         
     },
